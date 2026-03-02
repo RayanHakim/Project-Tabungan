@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  background-color: #f8fafc; /* Ini pengganti bg-slate-50 secara manual jika @apply error */
+  color: #0f172a;
+}
